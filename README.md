@@ -1,3 +1,8 @@
+# TODO
+
+1. create TODO list use [Markdown Guide](https://www.markdownguide.org/basic-syntax)
+2. create readme about this project
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
